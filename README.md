@@ -7,7 +7,7 @@
 ## **👨‍💻 About Me**
 ✅ **Experienced Test Engineer** with a strong background in **automated and manual testing**, specializing in **AI-powered test automation**.  
 ✅ Passionate about **ensuring software quality**, reducing defects, and implementing **self-healing test frameworks**.  
-✅ Skilled in **Selenium, Playwright, API Testing, AI-driven defect prediction, and CI/CD pipelines**.  
+✅ Skilled in **Selenium, API Testing, AI-driven defect prediction, and CI/CD pipelines**.  
 ✅ Experienced in **cloud-based test execution, and Agile methodologies**.  
 
 📌 **Currently seeking opportunities** as a **QA Automation Engineer / Test Engineer** with a focus on **AI-driven testing**.  
