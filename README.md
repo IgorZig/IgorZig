@@ -16,7 +16,7 @@
 
 ## **💡 Key Skills & Technologies**
 ### 🚀 **Core Testing Skills**
-- **Test Automation:** Selenium, Playwright  
+- **Test Automation:** Selenium
 - **API Testing:** Postman, Rest Assured, AI-powered API Test Tools  
 - **Performance Testing:** JMeter 
 - **Bug Tracking & CI/CD:** Jira, Jenkins, GitHub Actions  
