@@ -42,7 +42,7 @@
 | Project 3 - Rest API Test Automation-E-commerce    | Software-Testing- Rest API Test Automation Projects. | Java, RestAssured,Git,Github,Jenkins |
 | Project 4    | Software-Testing- API Test Projects | Postman |
 | Project 5    | Software-Testing- Database Testing | SQL |
-| Project 6    | playwright-test-automation | TypeScript+Cucumber |
+| Project 6    | Playwright-test-automation | TypeScript+Cucumber |
 
 
 
