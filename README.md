@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Igor Zig</h1>
+<h1 align="center">Hi 👋, I'm Igor </h1>
 <h3 align="center">🔍 Test Engineer | QA Automation | AI-Powered Testing Enthusiast</h3>
 
 ---
